@@ -172,7 +172,7 @@ conn.sendMessage(m.chat, {
 }; 
 handler.help = ['main']
 handler.tags = ['group']
-handler.command = ['سناركو'] 
+handler.command = ['وزيري'] 
 
 export default handler
 function clockString(ms) {
